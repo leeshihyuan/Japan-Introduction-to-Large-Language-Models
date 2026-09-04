@@ -10,6 +10,7 @@
 - 2026年7月
 
 ---
+![大規模言語モデル入門](https://github.com/leeshihyuan/Japan-Introduction-to-Large-Language-Models/blob/main/Japan-Introduction-to-Large-Language-Models_Cover-Green-Pheasant.png "大規模言語モデル入門")
 
 ## 章別詳細構成
 
